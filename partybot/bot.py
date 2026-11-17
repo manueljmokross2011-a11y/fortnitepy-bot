@@ -41,7 +41,7 @@ import FortniteAPIAsync
 import pypresence
 
 # Local imports
-from .settings import BotSettings
+from settings import BotSettings
 from .deviceauths import DeviceAuth, DeviceAuths
 # from .helper import HelperFunctions
 
